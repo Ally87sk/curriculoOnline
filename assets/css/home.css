@@ -1,0 +1,23 @@
+.container {
+    width: 90%;
+    max-width: 2024px;
+    margin: auto;
+    min-height: 100%;
+    padding: 20px;
+}
+
+.container .h-name {
+    width: 100%;
+    min-height: 100px;
+    margin: 5%;
+    margin-bottom: 100px;
+    
+}
+.container .h-name h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+    width: 100%;
+    margin: 5%;
+    margin-bottom: 100px;
+}
+
